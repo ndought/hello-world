@@ -41,6 +41,18 @@ public class Main {
 
         short myNewShortValue = (short) (myMinShortValue / 2);
 
+//        Primitive Type Challenge
+        byte myByte = 40;
+        short myShort = 17893;
+        int myInt = 7365869;
+        long myLong = 50000L + 10L * (myByte + myShort + myInt);
+        System.out.println(myLong);
+
+        short shortTotal = (short) (1000 + 10 *
+                (myByte + myShort + myInt));
+
+        System.out.println(shortTotal);
+
 
 
 
