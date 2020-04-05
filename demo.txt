@@ -1,0 +1,6 @@
+this is a demo file. This is second line of the file.
+this is third line.
+:quit
+
+
+:quit
